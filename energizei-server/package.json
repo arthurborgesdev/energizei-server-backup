@@ -1,0 +1,26 @@
+{
+  "name": "energizei-server",
+  "version": "0.0.1",
+  "description": "app to receive post from resin devices, log do database and respond ",
+  "main": "server-resin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurmoises/energizei-server.git"
+  },
+  "author": "Arthur Moisés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurmoises/energizei-server/issues"
+  },
+  "homepage": "https://github.com/arthurmoises/energizei-server#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "request": "^2.81.0",
+    "body-parser": "^1.17.2"
+  }
+}
+
