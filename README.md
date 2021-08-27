@@ -1,2 +1,2 @@
-# energizei-server-backup
-Backup do repositorio energizei-server do energ-deploy da Digital Ocean
+# energizei-server
+App that runs the ac controller dashboard and login screen
