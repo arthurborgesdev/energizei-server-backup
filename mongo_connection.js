@@ -6,5 +6,4 @@ MongoClient.connect(dbURL, function(err, database) {
   assert.equal(null, err);
   db = database;
   console.log("Connected correctly to database");
-}
-
+});
